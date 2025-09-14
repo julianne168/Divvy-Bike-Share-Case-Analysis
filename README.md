@@ -9,11 +9,11 @@ By examining usage patterns, trip durations, station preferences, and ride frequ
 ---
 
 ## 🎯 Business Objective
-Cyclistic generates most of its revenue from **annual members**, yet **casual riders** make up a significant portion of total trips.  
+Divvy generates most of its revenue from **annual members**, yet **casual riders** make up a significant portion of total trips.  
 Encouraging casual riders to become members could increase predictable revenue, improve retention, and strengthen brand loyalty.
 
 This study seeks to answer:
-1. **When and how do casual riders use Cyclistic bikes compared to members?**
+1. **When and how do casual riders use Divvy bikes compared to members?**
 2. **What are the peak riding times for each user type?**
 3. **How do trip durations differ between casual riders and members?**
 4. **Which stations are most popular for each group, and are there shared hotspots?**
